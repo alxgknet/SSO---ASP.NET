@@ -1,3 +1,3 @@
 # SSO---ASP.NET
 
-this will be a simple solution that demonstrates how to use single sign on with different ASP.NET MVC solutions 
+simple ASP.NET solution to demonstrate how to use single sign on. In order to make it simple, there is no repository, user name and password are hardcoded 
